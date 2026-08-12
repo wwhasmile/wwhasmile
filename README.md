@@ -4,7 +4,7 @@ I'm **Hasmile** - a software developer with passion for game development and low
 * 🎓 I'm studying at National University of Kyiv-Mohyla Academy, major "Software Engineering"
 * 🫙 Used to participate in gamejams, including Ludum Dare and Global Game Jam
 * ⌨️ Sometimes I write custom scripting languages
-* 🔹 I use Linux
+* ❄️ I use NixOS btw
 
 <p align="center">
   <a href="https://skillicons.dev">
